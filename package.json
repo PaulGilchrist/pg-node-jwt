@@ -1,0 +1,26 @@
+{
+    "author": "Paul Gilchrist",
+    "dependencies": {
+        "axios": "^0.21.4",
+        "jsonwebtoken": "^8.5.1"
+    },
+    "devDependencies": {},
+    "description": "Commonly Used Utilities JavaScript Library",
+    "homepage": "https://github.com/PaulGilchrist/pg-node-jwt.git",
+    "keywords": [
+        "pg-node-jwt",
+        "bearer",
+        "jwt",
+        "oauth",
+        "npm",
+        "token"
+    ],
+    "license": "MIT",
+    "main": "jwt",
+    "name": "pg-node-jwt",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PaulGilchrist/pg-node-jwt.git"
+    },
+    "version": "1.0.0"
+}
